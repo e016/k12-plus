@@ -2,7 +2,7 @@
 // @name         K12 Grade Highlighter
 // @namespace    http://github.com/e016/k12-plus
 // @version      2025-11-21
-// @description  Highlights grades in the Courses, like in D2L. It can't highlight what-if scores, though.
+// @description  Highlights grades in the Courses, like in D2L. 
 // @author       d016
 // @match        https://learn2.k12.com/courses/*/grades
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=k12.com
